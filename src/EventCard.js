@@ -35,6 +35,9 @@ const dateFormatFactory = (date) => {
   }
 }
 
+/**
+ * Could get all random images by putting the image request on ComponentDidMount
+ */
 const EventCard = ({ event }) => {
   // <div className='event-card'>
   //   <div className='title'>{event.attributes.Program_Title}</div>

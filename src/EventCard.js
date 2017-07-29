@@ -1,4 +1,5 @@
 import React from 'react'
+import './App.css'
 
 const EventCard = ({ event }) => (
   // <div className='event-card'>
@@ -10,7 +11,7 @@ const EventCard = ({ event }) => (
   // </div>
   <div className='row event-instance'>
         <div className='col-lg-6'>
-            <img className='img-responsive' src='' />
+            <img className='img-responsive' src='https://unsplash.com/photos/s8u1Gv2uF3o' alt='eventphoto'/>
             <div className='event-details'>
                 <div className='event-title'>
                     <p className='event-text'>{event.attributes.Program_Title}</p>

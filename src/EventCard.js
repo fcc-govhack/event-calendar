@@ -11,7 +11,7 @@ const EventCard = ({ event }) => (
   // </div>
   <div className='row event-instance'>
         <div className='col-lg-6'>
-            <img className='img-responsive' src='http://www.emeraldbank.net.au/wp-content/uploads/2016/10/farmers_market_board.jpg' alt='eventphoto'/>
+            <img className='img-responsive' src='https://images.unsplash.com/photo-1498491480129-04f6d95c90be' alt='eventphoto'/>
             <div className='event-details'>
                 <div className='event-title'>
                     <p className='event-text'>{event.attributes.Program_Title}</p>

@@ -1,254 +1,590 @@
-[
-    {
-      "attributes" : {
-        "FID" : 1, 
-        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
-        "Address" : "177 Meakin Rd, Kingston", 
-        "Program_Title" : "Kingston State School Playgroup", 
-        "Program_Description" : "Supported Playgroup for families at Kingston State School; programs aimed at supporting child development and child/parent interactions", 
-        "Day" : "Wednesdays", 
-        "Time" : "9:30am to 11:30am", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17047033.4533, 
-        "y" : -3204526.4457999989
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 2, 
-        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
-        "Address" : "177 Meakin Rd, Kingston", 
-        "Program_Title" : "Tai Chi", 
-        "Program_Description" : "Tai Chi for all fitness levels - from beginner to intermediate. All ages welcome; Childcare available for under 5's.", 
-        "Day" : "Fridays", 
-        "Time" : "11:15am to 12noon", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17047033.4533, 
-        "y" : -3204526.4457999989
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 3, 
-        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
-        "Address" : "177 Meakin Rd, Kingston", 
-        "Program_Title" : "Yoga", 
-        "Program_Description" : "Gentle Yoga suitable for most fitness levels; all ages welcome; children 10yrs+ accompined by parent also welcome", 
-        "Day" : "Tuesdays during the School Term", 
-        "Time" : "5pm to 5:45pm", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17047033.4533, 
-        "y" : -3204526.4457999989
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 4, 
-        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
-        "Address" : "177 Meakin Rd, Kingston", 
-        "Program_Title" : "Over 50’s Cooking Club", 
-        "Program_Description" : "Weekly cooking club for 5 sessions; nutrition tips; Chair Yoga; cook/prepare a 3 course healthy meal and share the meal together; recipes and booklet included.", 
-        "Day" : "Tuesday (school term)", 
-        "Time" : "12:30pm to 2:30pm", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17047033.4533, 
-        "y" : -3204526.4457999989
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 5, 
-        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
-        "Address" : "177 Meakin Rd, Kingston", 
-        "Program_Title" : "Seniors Pamper days & information", 
-        "Program_Description" : "Pampering and information for seniors", 
-        "Day" : "TBA", 
-        "Time" : "AM", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17047033.4533, 
-        "y" : -3204526.4457999989
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 6, 
-        "Name" : "Loganlea Community Centre", 
-        "Address" : "28-32 Timms Street, Loaganlea", 
-        "Program_Title" : "Food Hampers", 
-        "Program_Description" : "Food hampers to assist with food supplies", 
-        "Day" : "Tuesdays", 
-        "Time" : "9.00am - 11.00am", 
-        "Cost" : "5", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17046141.283200003, 
-        "y" : -3207639.3359999992
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 7, 
-        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
-        "Address" : "177 Meakin Rd, Kingston", 
-        "Program_Title" : "Seniors Computer Club", 
-        "Program_Description" : "Computer instruction for Seniors from beginner to intermediate with healthy morning tea included", 
-        "Day" : "Wednesdays", 
-        "Time" : "9:30am to 12.00pm", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17047033.4533, 
-        "y" : -3204526.4457999989
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 8, 
-        "Name" : "Loganlea Community Centre", 
-        "Address" : "28-32 Timms Street, Loaganlea", 
-        "Program_Title" : "Line Dancing ", 
-        "Program_Description" : "Dance class", 
-        "Day" : "Tuesdays", 
-        "Time" : "1.00pm - 2.00pm ", 
-        "Cost" : "5", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17046141.283200003, 
-        "y" : -3207639.3359999992
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 9, 
-        "Name" : "Loganlea Community Centre", 
-        "Address" : "28-32 Timms Street, Loaganlea", 
-        "Program_Title" : "Belly Dancing", 
-        "Program_Description" : "Dance class", 
-        "Day" : "Tuesdays", 
-        "Time" : "7.00pm - 8.00pm", 
-        "Cost" : "15", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17046141.283200003, 
-        "y" : -3207639.3359999992
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 10, 
-        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
-        "Address" : "177 Meakin Rd, Kingston", 
-        "Program_Title" : "3A Playgroup - My Child, My Life", 
-        "Program_Description" : "Supported Playgroup for families at Logan Central Library; programs aimed at support child development and child/parent interactions.", 
-        "Day" : "Friday's during the School Term", 
-        "Time" : "10.30am - 11.30am", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17047033.4533, 
-        "y" : -3204526.4457999989
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 11, 
-        "Name" : "Loganlea Community Centre", 
-        "Address" : "28-32 Timms Street, Loaganlea", 
-        "Program_Title" : "Broadband for Seniors ", 
-        "Program_Description" : "How to use computers and access the internet class for senior citizens", 
-        "Day" : "Thursdays", 
-        "Time" : "By appointment", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17046141.283200003, 
-        "y" : -3207639.3359999992
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 12, 
-        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
-        "Address" : "177 Meakin Rd, Kingston", 
-        "Program_Title" : "Professional Counselling", 
-        "Program_Description" : "Professional Counselling for adults", 
-        "Day" : "Monday's & Thursday's during the School Term", 
-        "Time" : "9.00am to 12.00pm", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17047033.4533, 
-        "y" : -3204526.4457999989
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 13, 
-        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
-        "Address" : "177 Meakin Rd, Kingston", 
-        "Program_Title" : "Sewing Group", 
-        "Program_Description" : "Supported Sewing Group for beginners or advanced; morning tea included; childcare available for under 5's. ", 
-        "Day" : "Friday's during the School Term", 
-        "Time" : "9:15am to 11:15am", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17047033.4533, 
-        "y" : -3204526.4457999989
-      }
-    }, 
-    {
-      "attributes" : {
-        "FID" : 14, 
-        "Name" : "Loganlea Community Centre", 
-        "Address" : "28-32 Timms Street, Loaganlea", 
-        "Program_Title" : "Seniors Expo", 
-        "Program_Description" : "Seniors information (brouchures, flyers)", 
-        "Day" : "Fridays", 
-        "Time" : "Open during business hours", 
-        "Cost" : "Free", 
-        "Cost_Conditions_" : "NA"
-      }, 
-      "geometry" : 
-      {
-        "x" : 17046141.283200003, 
-        "y" : -3207639.3359999992
-      }
-    }
-]
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Black Diggers of Logan",
+                "eventLocation": "\r\nBeenleigh Library\r\n      ",
+                "eventDate": "Saturday, 1st Jul 2017 12:00am - 31st Jul 2017 12:00am",
+                "eventDescription": "\r\r\r\rThis exhibition explores the stories of Aboriginal, Torres Strait Islander and South Sea Islander servicemen of the First World War as told by their Logan based descendents.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/beenleigh-library/black-diggers-of-logan",
+                "eventCategory": "\r\n\r\n",
+                "FID": 1
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Beenleigh Craft and Farmers Market",
+                "eventLocation": "\r\nBeenleigh Showgrounds\r\n      ",
+                "eventDate": "Every week on Sunday, until further notice</p>\r\n    <div class=\"description\">\r\n      A general variety market with farmers produce, fresh fish, pets, crafts and a wide variety of new and second hand goods. This market has a ban on dogs and smoking. Admission is free and there&#39;s plenty of internal parking.\r\n      \r\n    </div>\r\n  </div>\r\n</div>",
+                "eventDescription": "\rA general variety market with farmers produce, fresh fish, pets, crafts and a wide variety of new and second hand goods. This market has a ban on dogs and smoking. Admission is free and there&#39;s plenty of internal parking.\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/community-events/markets/beenleigh-craft-and-farmers-market?SQ_CALENDAR_DATE=2017-07-02",
+                "eventCategory": "\r\nArts and Crafts; Community; Markets\r\n",
+                "FID": 2
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Global Food Village",
+                "eventLocation": "\r\nCroydon Road, Woodridge (opposite the Woodridge train station)\r\n      ",
+                "eventDate": "Every week on Sunday, until further notice</p>\r\n    <div class=\"description\">\r\n      Why not come and enjoy a day out with the international atmosphere and experience more than 200 nationalities and cultural experiences including multi-cultural costumes and shopping? The market provides international breakfast foods from Europe, Africa and Asia.\r\n      \r\n    </div>\r\n  </div>\r\n</div>",
+                "eventDescription": "\rWhy not come and enjoy a day out with the international atmosphere and experience more than 200 nationalities and cultural experiences including multi-cultural costumes and shopping? The market provides international breakfast foods from Europe, Africa and Asia.\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/community-events/markets/global-food-village?SQ_CALENDAR_DATE=2017-07-02",
+                "eventCategory": "\r\nCommunity; Markets\r\n",
+                "FID": 3
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Beenleigh Town Square Markets",
+                "eventLocation": "\r\nBeenleigh Town Square\r\n      ",
+                "eventDate": "Every week on Wednesday, until further notice</p>\r\n    <div class=\"description\">\r\n      The Beenleigh Town Square Markets are a vibrant mid-week market with food trucks, produce, arts, crafts &amp; more. The markets are open for both breakfast and lunch, providing a wide array of international cuisines, coffee, baked goods &amp; provisions. Plus the selection of arts, craft and farm-fresh fruit &amp; vegetables makes them the perfect mid-week stop in the heart of Beenleigh CBD.\r\n      \r\n    </div>\r\n  </div>\r\n</div>",
+                "eventDescription": "\rThe Beenleigh Town Square Markets are a vibrant mid-week market with food trucks, produce, arts, crafts &amp; more. The markets are open for both breakfast and lunch, providing a wide array of international cuisines, coffee, baked goods &amp; provisions. Plus the selection of arts, craft and farm-fresh fruit &amp; vegetables makes them the perfect mid-week stop in the heart of Beenleigh CBD.\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/community-events/markets/beenleigh-town-square-markets?SQ_CALENDAR_DATE=2017-07-05",
+                "eventCategory": "\r\nArts and Crafts; Community; Markets\r\n",
+                "FID": 4
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Creative Markets",
+                "eventLocation": "\r\nTudor Park PCYC\r\n      ",
+                "eventDate": "Every month on the 2nd Saturday of the month, until further notice</p>\r\n    <div class=\"description\">\r\n      We proudly showcase over 40+ handmade and unique boutique stalls, fresh produce, healthy and organic food/drink options as well as awesome coffee. There is a wide range of children's entertainment. Why not come &amp; enjoy some of the  live entertainment from various buskers &amp; local groups in either the air-conditioned comfort of the PCYC or kick back in the beautiful bush surroundings that Tudor Park offers.\n\nCreative Markets also support local non-profit organisations &amp; each month is different so check out our website for who will be at our market this month.\n\nSupport local business, community and events....\r\n      \r\n    </div>\r\n  </div>\r\n</div>",
+                "eventDescription": "\rWe proudly showcase over 40+ handmade and unique boutique stalls, fresh produce, healthy and organic food/drink options as well as awesome coffee. There is a wide range of children's entertainment. Why not come &amp; enjoy some of thelive entertainment from various buskers &amp; local groups in either the air-conditioned comfort of the PCYC or kick back in the beautiful bush surroundings that Tudor Park offers.Creative Markets also support local non-profit organisations &amp; each month is different so check out our website for who will be at our market this month.Support local business, community and events....\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/community-events/markets/creative-markets?SQ_CALENDAR_DATE=2017-07-08",
+                "eventCategory": "\r\nArts and Crafts; Community; Markets\r\n",
+                "FID": 5
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Jimboomba Country Market",
+                "eventLocation": "\r\nJimboomba State School\r\n      ",
+                "eventDate": "Every month on the 3rd Saturday of the month, until further notice</p>\r\n    <div class=\"description\">\r\n      Large variety of plants, fresh fruit and vegetables, crafts and brick-a-brack. Please note that no dogs are permitted.\n\nApproximately 300 stalls, bookings not required, first come first served basis for casual stall holders.\n\nMarkets do not run during the month of January.\r\n      \r\n    </div>\r\n  </div>\r\n</div>",
+                "eventDescription": "\rLarge variety of plants, fresh fruit and vegetables, crafts and brick-a-brack. Please note that no dogs are permitted.Approximately 300 stalls, bookings not required, first come first served basis for casual stall holders.Markets do not run during the month of January.\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/community-events/markets/jimboomba-country-market?SQ_CALENDAR_DATE=2017-07-15",
+                "eventCategory": "\r\nCommunity; Markets\r\n",
+                "FID": 6
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Eats &amp; Beats",
+                "eventLocation": "\r\nUnderwood Park\r\n      ",
+                "eventDate": "Friday, 28th Jul 2017 5:00pm-9:00pm",
+                "eventDescription": "\rEats &amp; Beats is a must-do event for families and food aficionados, delivering mouth-watering meals and live music acts, performing throughout the evening.Check out the frequently asked questions for more information about attending Eats &amp; Beats.\r\r\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/logan-events/eats-and-beats",
+                "eventCategory": "\r\nCommunity; Entertainment; Live Music or Concert; Markets\r\n",
+                "FID": 7
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "GovHack Logan &amp; Redlands",
+                "eventLocation": "\r\nGriffith University Logan Campus\r\n      ",
+                "eventDate": "Friday, 28th Jul 2017 5:00pm - 30th Jul 2017 3:00pm",
+                "eventDescription": "\r\rWant to collaborate with like-minded people to change the future?\rAre you an ideas generator, coder, designer, entrepreneur or artist?\rJoin with some of the brightest minds in the City of Logan and Redlands for a weekend of hacking government data to create solutions that will shape our future. \rRegister today\r\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/community-events/govhack-logan-and-redlands",
+                "eventCategory": "\r\n\r\n",
+                "FID": 8
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Free artist talk",
+                "eventLocation": "\r\nLogan Art Gallery\r\n      ",
+                "eventDate": "Friday, 28th Jul 2017 5:30pm",
+                "eventDescription": "\rJoin artist Vanghoua Anthony Vue as he discusses his exhibition Fading marks\r\r\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/logan-art-gallery/free-artist-talk",
+                "eventCategory": "\r\nArts and Crafts; Community; Cultural\r\n",
+                "FID": 9
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Logan Art Gallery exhibition opening",
+                "eventLocation": "\r\nLogan Art Gallery\r\n      ",
+                "eventDate": "Friday, 28th Jul 2017 6:00pm",
+                "eventDescription": "\rThe sun still shines by Logan Art Group, Fading marks by Vanghoua Anthony Vue, Ripple effect: out of Artwaves (part two) by Arabella Kajewski, Recollections from my childhood by Joan Macnaught and Bee-mindful: creative communing with stingless, native bees curated by Sandra Conte willbe opened by Councillor Steve Swenson.\r\r\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/logan-art-gallery/logan-art-gallery-exhibition-opening",
+                "eventCategory": "\r\nArts and Crafts; Community; Entertainment; Live Music or Concert; Cultural\r\n",
+                "FID": 10
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Itching to Stitch - Craft Group",
+                "eventLocation": "\r\nLogan Hyperdome Library\r\n      ",
+                "eventDate": "Saturday, 29th Jul 2017 12:00pm-4:00pm",
+                "eventDescription": "\r\r\r\rCraft Group (Saturday Session) - join the local charity craft group, Itching to Stitch, for activities to help the community.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-hyperdome-library/itching-to-stitch-craft-group139",
+                "eventCategory": "\r\n\r\n",
+                "FID": 11
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tabletop Time: Settlers of Catan",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Saturday, 29th Jul 2017 1:00pm-4:00pm",
+                "eventDescription": "\r\r\r\rLearn to play the board game 'Settlers of Catan'.More than 22 million copies in over 30 languages have been sold since its inception!\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/tabletop-time-settlers-of-catan",
+                "eventCategory": "\r\n\r\n",
+                "FID": 12
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Family History with Martin",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Saturday, 29th Jul 2017 1:30pm-3:00pm",
+                "eventDescription": "\r\r\r\rFamily history is the fastest growing hobby in the world! Free assistance is now available at Logan North Library. Martin Hawkins, experienced researcher, can assist you with your genealogy queries.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/family-history-with-martin250",
+                "eventCategory": "\r\n\r\n",
+                "FID": 13
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Grow your own Spice Garden with Noel Burdette",
+                "eventLocation": "\r\nLogan West Library\r\n      ",
+                "eventDate": "Saturday, 29th Jul 2017 2:00pm-3:30pm",
+                "eventDescription": "\r\r\r\rNoel will highlight what is needed to have your own home grown spices, such as ginger, turmeric, galangal and many others.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-west-library/grow-your-own-spice-garden-with-noel-burdette",
+                "eventCategory": "\r\n\r\n",
+                "FID": 14
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tour de Logan Bike Ride",
+                "eventLocation": "\r\nBerrinba Wetlands\r\n      ",
+                "eventDate": "Sunday, 30th Jul 2017 6:00am-12:00pm",
+                "eventDescription": "\r\rTour de Logan Bike Ride Sunday 30 July 2017 Logan City Council is a proud sponsor of this year's annual Tour de Logan, which will start and finish at the Berrinba Wetlands recreational park. Three courses of 20km, 40km and 100km have been created to cater for riders of all capabilities and staggered starts also provide more experienced riders with the opportunity to safely break away from the main pelotons. The tour is a wonderful opportunity to enjoy and explore Logan whilst raising valuable funds for youth and community projects across the City of Logan. The event, which is organised...\r\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/community-events/tour-de-logan-bike-ride",
+                "eventCategory": "\r\nCommunity; Entertainment; Health and Fitness; Sport\r\n",
+                "FID": 15
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "National Tree Day",
+                "eventLocation": "\r\nCianthus Park\r\n      ",
+                "eventDate": "Sunday, 30th Jul 2017 8:30am-11:00am",
+                "eventDescription": "\rCome and plant a tree this National Tree Day! Your efforts will help to protect and enhance this bushland area which is part of a significant wildlife corridor. Free BBQ. Ages: Family friendly. Bookings required.\r\r\r\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/environmental-events-and-activities/national-tree-day",
+                "eventCategory": "\r\nEnvironmental\r\n",
+                "FID": 16
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "The Scrabble Group",
+                "eventLocation": "\r\nLogan West Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 9:00am-12:00pm",
+                "eventDescription": "\r\r\r\rPlaying Scrabble every Monday.New members welcome.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-west-library/the-scrabble-group60",
+                "eventCategory": "\r\n\r\n",
+                "FID": 17
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Broadband For Seniors (AM )",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 9:30am-11:30am",
+                "eventDescription": "\r\r\r\rFor seniors: learn about computers and the internet. Join us for free lessons by volunteers; use the seniors' only kiosk to access information online or to contact family and friends.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/broadband-for-seniors-am-61",
+                "eventCategory": "\r\n\r\n",
+                "FID": 18
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Baby Time",
+                "eventLocation": "\r\nLogan Hyperdome Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 10:00am-10:30am",
+                "eventDescription": "\r\r\r\rBaby Time is a free, informal half hour session for babies under 12 months and their parent/carer.Help develop literacy for your baby by encouraging word and rhyme recognition. Join us for baby time and share nursery rhymes, simple stories and action songs with your baby.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-hyperdome-library/baby-time206",
+                "eventCategory": "\r\n\r\n",
+                "FID": 19
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Family history with Michelle",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 10:00am-11:30am",
+                "eventDescription": "\r\r\r\rFamily history is the fastest growing hobby in the world! Free assistance is now available at Logan North Library. Michelle Jackson, experienced researcher, can assist you with your genealogy queries.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/family-history-with-michelle296",
+                "eventCategory": "\r\n\r\n",
+                "FID": 20
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Toddler Time",
+                "eventLocation": "\r\nBeenleigh Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 10:00am-10:30am",
+                "eventDescription": "\r\r\r\rRecommended for ages 1 to 3 years. 30 minute session\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/beenleigh-library/toddler-time60",
+                "eventCategory": "\r\n\r\n",
+                "FID": 21
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Family History with Martin",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 10:30am-12:00pm",
+                "eventDescription": "\r\r\r\rFamily history is the fastest growing hobby in the world! Free assistance is now available at Logan North Library. Martin Hawkins, experienced researcher, can assist you with your genealogy queries.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/family-history-with-martin251",
+                "eventCategory": "\r\n\r\n",
+                "FID": 22
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Justice of the Peace",
+                "eventLocation": "\r\nLogan West Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 10:30am-12:30pm",
+                "eventDescription": "\r\r\r\rWitness documents for the public\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-west-library/justice-of-the-peace201",
+                "eventCategory": "\r\n\r\n",
+                "FID": 23
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Toddler Time",
+                "eventLocation": "\r\nLogan West Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 10:30am-11:00am",
+                "eventDescription": "\r\r\r\rLeap into learning and language with fun songs, movement, rhymes and stories. 1 to 3 year old children and their parents/carers welcome.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-west-library/toddler-time67",
+                "eventCategory": "\r\n\r\n",
+                "FID": 24
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tech Help",
+                "eventLocation": "\r\nMarsden Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 11:00am-12:00pm",
+                "eventDescription": "\r\r\r\rWant some help with gadgets, ebooks, technology or social media? A quick personalised tech session may help to solve your specific problems. If you're struggling with using your technology, we may be able to help. Please let us know what kind of device you're using.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/marsden-library/tech-help458",
+                "eventCategory": "\r\n\r\n",
+                "FID": 25
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Toddler Time",
+                "eventLocation": "\r\nLogan Hyperdome Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 11:00am-11:30am",
+                "eventDescription": "\r\r\r\rA fun half hour program held weekly especially for toddlers.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-hyperdome-library/toddler-time142",
+                "eventCategory": "\r\n\r\n",
+                "FID": 26
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Family history with Michelle",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 11:30am-1:00pm",
+                "eventDescription": "\r\r\r\rFamily history is the fastest growing hobby in the world! Free assistance is now available at Logan North Library. Michelle Jackson, experienced researcher, can assist you with your genealogy queries.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/family-history-with-michelle297",
+                "eventCategory": "\r\n\r\n",
+                "FID": 27
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Family history with Martin",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 12:00pm-1:30pm",
+                "eventDescription": "\r\r\r\rFamily history is the fastest growing hobby in the world! Free assistance is now available at Logan North Library. Martin Hawkins, experienced researcher, can assist you with your genealogy queries.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/family-history-with-martin252",
+                "eventCategory": "\r\n\r\n",
+                "FID": 28
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tech Help",
+                "eventLocation": "\r\nJimboomba Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 1:00pm-1:30pm",
+                "eventDescription": "\r\r\r\rA quick, personalised tech session to field specific problems. If you're struggling with using your technology we may be able to help. Bookings are essential, please let us know what kind of device you're using.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/jimboomba-library/tech-help233",
+                "eventCategory": "\r\n\r\n",
+                "FID": 29
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tech Help",
+                "eventLocation": "\r\nBeenleigh Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 1:00pm-1:30pm",
+                "eventDescription": "\r\r\r\rWant some help with gadgets, technology or social media? A quick personalised session.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/beenleigh-library/tech-help378",
+                "eventCategory": "\r\n\r\n",
+                "FID": 30
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Browns Plains Ukulele Group",
+                "eventLocation": "\r\nLogan West Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 1:30pm-4:00pm",
+                "eventDescription": "\r\r\r\rA Group for lovers of Ukulele playing.Contact George Mroz on 040 876 1068.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-west-library/browns-plains-ukulele-group49",
+                "eventCategory": "\r\n\r\n",
+                "FID": 31
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Family history with Martin",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 1:30pm-3:00pm",
+                "eventDescription": "\r\r\r\rFamily history is the fastest growing hobby in the world! Free assistance is now available at Logan North Library. Martin Hawkins, experienced researcher, can assist you with your genealogy queries.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/family-history-with-martin253",
+                "eventCategory": "\r\n\r\n",
+                "FID": 32
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tech Help",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 1:30pm-2:00pm",
+                "eventDescription": "\r\r\r\rWant some help with gadgets, technology or social media?A quick, personalised tech session may help to solve your specific problems.If you're struggling with using your technology, we may be able to help.Please let us know what kind of device you're using.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/tech-help113",
+                "eventCategory": "\r\n\r\n",
+                "FID": 33
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tech Help",
+                "eventLocation": "\r\nJimboomba Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 1:30pm-2:00pm",
+                "eventDescription": "\r\r\r\rA quick, personalised tech session to field specific problems. If you're struggling with using your technology we may be able to help. Bookings are essential, please let us know what kind of device you're using.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/jimboomba-library/tech-help234",
+                "eventCategory": "\r\n\r\n",
+                "FID": 34
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tech Help",
+                "eventLocation": "\r\nLogan Hyperdome Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 2:00pm-2:30pm",
+                "eventDescription": "\r\r\r\rA quick, personalised tech session to solve specific problems.If you're struggling with using your technology we may be able to help.Bookings are essential, please let us know what kind of device you are using.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-hyperdome-library/tech-help395",
+                "eventCategory": "\r\n\r\n",
+                "FID": 35
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tech Help",
+                "eventLocation": "\r\nLogan North Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 2:00pm-2:30pm",
+                "eventDescription": "\r\r\r\rWant some help with gadgets, technology or social media?A quick, personalised tech session may help to solve your specific problems.If you're struggling with using your technology, we may be able to help.Please let us know what kind of device you're using.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-north-library/tech-help114",
+                "eventCategory": "\r\n\r\n",
+                "FID": 36
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Road to IELTS: introduction",
+                "eventLocation": "\r\nLogan West Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 2:30pm-3:30pm",
+                "eventDescription": "\r\r\r\rLearn how you can use our free International English Language Testing System (IELTS) eResource to prepare for your test and improve your English skills for employment or study.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-west-library/road-to-ielts-introduction13",
+                "eventCategory": "\r\n\r\n",
+                "FID": 37
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Tech Help",
+                "eventLocation": "\r\nLogan Hyperdome Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 2:30pm-3:00pm",
+                "eventDescription": "\r\r\r\rA quick, personalised tech session to solve specific problems.If you're struggling with using your technology we may be able to help.Bookings are essential, please let us know what kind of device you are using.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-hyperdome-library/tech-help394",
+                "eventCategory": "\r\n\r\n",
+                "FID": 38
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Fun Club: Bee Kidz",
+                "eventLocation": "\r\nBeenleigh Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 3:00pm-4:00pm",
+                "eventDescription": "\r\r\r\rGames, craft and other fun activities. During school term.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/beenleigh-library/fun-club-bee-kidz57",
+                "eventCategory": "\r\n\r\n",
+                "FID": 39
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Page Turners",
+                "eventLocation": "\r\nBeenleigh Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 3:00pm-4:00pm",
+                "eventDescription": "\r\r\r\rPage Turners Reading Program encourages the enjoyment and appreciation of books for children. Library staff and volunteers listen to children read, as well as read to children. It is a one-on-one, personalised service. During School time.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/beenleigh-library/page-turners166",
+                "eventCategory": "\r\n\r\n",
+                "FID": 40
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Fun Club: Creative Craft",
+                "eventLocation": "\r\nJimboomba Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 3:15pm-4:00pm",
+                "eventDescription": "\r\r\r\rMake, do, learn and create. Free event. No bookings required.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/jimboomba-library/fun-club-creative-craft14",
+                "eventCategory": "\r\n\r\n",
+                "FID": 41
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Fun Club: Board Games",
+                "eventLocation": "\r\nMarsden Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 3:30pm-4:30pm",
+                "eventDescription": "\r\r\r\rJoin the game revolution! Come and learn how to play popular and classic tabletop games!\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/marsden-library/fun-club-board-games9",
+                "eventCategory": "\r\n\r\n",
+                "FID": 42
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Homework help",
+                "eventLocation": "\r\nLogan West Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 3:30pm-4:30pm",
+                "eventDescription": "\r\r\r\rWant a quiet place to study or advice on your assignments?Come along for some help during school term only.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/logan-west-library/homework-help61",
+                "eventCategory": "\r\n\r\n",
+                "FID": 43
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Page Turners",
+                "eventLocation": "\r\nMarsden Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 3:30pm-4:30pm",
+                "eventDescription": "\r\r\r\rPage Turners Reading Program encourages the enjoyment and appreciation of books for children. Library staff and volunteers listen to children read, as well as read to children. It is a one-on-one, personalised service, during school term.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/marsden-library/page-turners19",
+                "eventCategory": "\r\n\r\n",
+                "FID": 44
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Road to IELTS: introduction",
+                "eventLocation": "\r\nBeenleigh Library\r\n      ",
+                "eventDate": "Monday, 31st Jul 2017 4:30pm-5:30pm",
+                "eventDescription": "\r\r\r\rLearn how you can use our free International English Language Testing System (IELTS) eResource to prepare for your test and improve your English skills for employment or study.\r\r\r\r\r\r<div class=\"dynamic-month-selector ajax\" data-url=\"http://www.logan.qld.gov.au/about-logan/calendar/all-events\" data-target=\".calendar-wrapper\">\r<a class=\"events-link\" href=\"http://www.logan.qld.gov.au/about-logan/calendar/all-events\">All events</a>\r<a class=\"calendarNavLink\"href=\"?SQ_CALENDAR_VIEW=month&amp;SQ_CALENDAR_DATE=2017-06-01\" rel=\"nofollow\">&lt;&lt; Previous Month</a> <a class=\"calendarNavLink\"href=\"?SQ_CALENDAR_VIEW=month&amp;SQ_CALENDAR_DATE=2017-08-01\" rel=\"nofollow\">Next Month &gt;&gt;</a>\r\r\r\r\r\r\r<!-- media releases listing -->\r\r\r<!-- documents listing -->\r\r\r\r<!-- end .main__content --><div class=\"right__column desktop\"><nav class=\"nav\"><!-- ################ menu_title STARTS ################--><h2>About Logan</h2><!-- ################ menu_title ENDS ################--><!-- ################ inside_sub_menu STARTS ################-->\t\t\t\t\t\t\t<ul class=\"nav__list\"><li class=\"nav__itemfa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/awards\" class=\"nav__item-link\">Awards</a> \t\t\t\t\t\t\t </li><li class=\"nav__itemfa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/economic-development\" class=\"nav__item-link\">Economic Development</a> \t\t\t\t\t\t\t </li><li class=\"nav__itemfa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/history\" class=\"nav__item-link\">History</a> \t\t\t\t\t\t\t </li><li class=\"nav__itemfa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/international-relations\" class=\"nav__item-link\">International Relations</a> \t\t\t\t\t\t\t </li><li class=\"nav__itemfa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/living-in-logan\" class=\"nav__item-link\">Living in Logan</a> \t\t\t\t\t\t\t </li><li class=\"nav__itemfa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/suburbs\" class=\"nav__item-link\">Suburbs</a> \t\t\t\t\t\t\t </li><li class=\"nav__itemhier fa fa-angle-down\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/calendar\" class=\"nav__item-link\">What's On</a> \t\t\t\t\t\t\t <ul class=\"nav__deep\"><li class=\"nav__sub-itemfa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/calendar/add-an-event\" class=\"nav__sub-item-link\">Add an Event</a></li><li class=\"nav__sub-itemselected fa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/calendar/all-events\" class=\"nav__sub-item-link\">All Events</a></li><li class=\"nav__sub-itemfa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/calendar/council-events\" class=\"nav__sub-item-link\">Council Events</a></li><li class=\"nav__sub-itemfa fa-angle-right\"><span class=\"nav-icon fa \"></span><a href=\"http://www.logan.qld.gov.au/about-logan/calendar/imagination-childrens-festival\" class=\"nav__sub-item-link\">ImagiNation Children's Festival</a></li> </ul> \t\t\t\t\t\t </li></ul> \t\t\t\t\t\t <!-- ################ inside_sub_menu ENDS ################--> </nav><!-- /.nav --><!-- end .right__column --><!-- end .content-wrapper --></main><!--/#main--><!--end main-content--><!--noindex--><footer class=\"footer\" role=\"contentinfo\"> <div class=\"footer__content clearfix\">\r<div class=\"footer__inner\">\r<div class=\"footer__logo span-3 desktop\">\r<a href=\"http://www.loed.com.au\" class=\"footer__logolink\"><img class=\"\" src=\"http://www.logan.qld.gov.au/__data/assets/image/0005/346865/logan-footer-logo.png\" alt=\"Logan Office of Economic Development\" /></a>\r\r<div class=\"footer__logo span-3 desktop\">\r<a href=\"http://www.visitlogan.com.au\" class=\"footer__logolink\"><img class=\"\" src=\"http://www.logan.qld.gov.au/__data/assets/image/0008/346859/visitlogan-footer-logo.png\" alt=\"Visit Logan\" /></a>\r\r<div class=\"footer__logo span-3 desktop\" style=\"padding:0.5em 0;\">\r<a href=\"http://www.loganentertainmentcentre.com.au\" class=\"footer__logolink\"><img class=\"\" src=\"http://www.logan.qld.gov.au/__data/assets/image/0006/355920/lec-logo-footer.png\" alt=\"Logan Entertainment Centre\" /></a>\r\r<div class=\"footer__logo span-3 desktop\">\r<a href=\"http://www.insportslogan.com.au\" class=\"footer__logolink\"><img class=\"\" src=\"http://www.logan.qld.gov.au/__data/assets/image/0004/355918/insports-logo-footer.png\" alt=\"Logan InSports\" /></a>\r\r<div class=\"top mobile\"><a href=\"#page-wrapper\" class=\"scroll-top\" title=\"Back to top\"><span class=\"fa fa-angle-up\"></span> Back to top</a>\r<div class=\"footer__details\">\r\r<div class=\"footer__details__contents float-left desktop\">\r<span>&copy; 2017 Logan City Council&nbsp; |</span>\r<span><a href=\"http://www.logan.qld.gov.au/about-council/contact-us\">Contact</a> |</span>\r<span><a href=\"http://www.logan.qld.gov.au/home/terms-of-use\">Terms of Use</a> |</span>\r<span><a href=\"http://www.logan.qld.gov.au/about-council/contact-us/right-to-information\">Right to Information</a> |</span>\r<span><a href=\"https://logancity.sharepoint.com/sites/connect\">Staff Access</a> | <a href=\"https://logancity.sharepoint.com/sites/crportal\">Portal</a></span>\r\r<div class=\"footer__details__contents float-left mobile\">\r<div class=\"footer__details__row\">\r<span class=\"col-1\"><a href=\"http://www.logan.qld.gov.au/about-council/contact-us\">Contact</a></span>\r<span class=\"col-1\"><a href=\"http://www.logan.qld.gov.au/home/terms-of-use\">Terms of Use</a></span>\r<span class=\"col-1\"><a href=\"http://www.logan.qld.gov.au/about-council/contact-us/right-to-information\">Right to Information</a></span>\r<span class=\"col-1\"><a href=\"https://logancity.sharepoint.com/sites/connect\">Staff Access</a></span>\r<span class=\"col-1\"><a href=\"https://logancity.sharepoint.com/sites/crportal\">Portal</a></span>\r\r<!--div class=\"footer__details__row\">\r<span class=\"col-1\"><a href=\"http://www.logan.qld.gov.au/home/terms-of-use\">Terms of Use</a></span>\r<span class=\"col-2\"><a href=\"https://logancity.sharepoint.com/sites/connect\">Staff Access &amp; Portal</a></span>\r</div-->\r<div class=\"footer__details__row clearfix copy\" style=\"white-space:nowrap;\">&nbsp;&copy; 2017 Logan City Council\r\r<div class=\"footer__details__social-media float-right\">\r<a href=\"http://www.facebook.com/logancitycouncil\"><img src=\"http://www.logan.qld.gov.au/__data/assets/image/0008/346895/facebook-white.png\" alt=\"Footer\" /></a>\r<a href=\"http://www.twitter.com/logancc\"><img src=\"http://www.logan.qld.gov.au/__data/assets/image/0007/346894/twitter-white.png\" alt=\"Footer\" /></a>\r<a href=\"http://www.youtube.com/logancitycouncil\"><img src=\"http://www.logan.qld.gov.au/__data/assets/image/0008/354842/youtube-white-ft.png\" alt=\"Footer\" /></a>\r\r\r<!--end .footer__inner-->\r<!--end .footer__content-->\r</footer><!--/.footer--><!--endnoindex--><!--/#page-wrapper--><script src=\"http://www.logan.qld.gov.au/__data/assets/js_file/0011/346898/jquery.min.js\"></script><!-- jquery.min.js -->\r<script src=\"http://www.logan.qld.gov.au/__data/assets/js_file/0010/346897/plugins.min.js\"></script><!-- plugins.min.js -->\r<script src=\"http://www.logan.qld.gov.au/__data/assets/js_file/0009/346896/global.js\"></script><!-- global.js -->\r\r<!-- Funnelback Scripts and Styles -->\r<script type=\"text/javascript\" src=\"http://www.logan.qld.gov.au/__data/assets/js_file/0006/290490/jquery-ui-1.8.2.custom.min.js?v=0.1.1\"></script><!-- jquery-ui-1.8.2.custom.min.js -->\r<script type=\"text/javascript\" src=\"http://www.logan.qld.gov.au/__data/assets/js_file/0005/290489/jquery.tmpl.min.js?v=0.1.1\"></script><!-- jquery.tmpl.min.js -->\r<script type=\"text/javascript\" src=\"http://www.logan.qld.gov.au/__data/assets/js_file/0017/290303/loganfunnelback-completion.js?v=0.2.1\"></script><!-- logan.funnelback-completion.js -->\r<script type=\"text/javascript\" src=\"http://www.logan.qld.gov.au/__data/assets/js_file/0003/290487/logan-completion.js?v=0.2.1\"></script><!-- logan-completion.js -->\r<script type=\"text/javascript\" src=\"http://www.logan.qld.gov.au/__data/assets/js_file/0018/290304/logan-facet.js?v=0.1.1\"></script><!-- logan.facet.js -->\r\r<!--################ Google Analytics ################-->\r<script type=\"text/javascript\">\r\rvar _gaq = _gaq || [];\r_gaq.push(['_setAccount', 'UA-20740212-3']);\r_gaq.push(['_setDomainName', '.logan.qld.gov.au']);\r_gaq.push(['_trackPageview']);\r\r(function() {\rvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\rga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\rvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\r})();\r\r$(\"a[href*='.pdf'], a[href*='.doc'], a[href*='.xls']\").click(function() {\rpageTracker._trackPageview('/doc/' + $(this).attr('href'));\r});\r\r</script>\r<!--additionaljscode--></body></html>",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/beenleigh-library/road-to-ielts-introduction13",
+                "eventCategory": "\r\n\r\n",
+                "FID": 45
+            },
+            "geometry": null
+        }
+    ]
+}

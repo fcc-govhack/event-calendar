@@ -1,0 +1,254 @@
+[
+    {
+      "attributes" : {
+        "FID" : 1, 
+        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
+        "Address" : "177 Meakin Rd, Kingston", 
+        "Program_Title" : "Kingston State School Playgroup", 
+        "Program_Description" : "Supported Playgroup for families at Kingston State School; programs aimed at supporting child development and child/parent interactions", 
+        "Day" : "Wednesdays", 
+        "Time" : "9:30am to 11:30am", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17047033.4533, 
+        "y" : -3204526.4457999989
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 2, 
+        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
+        "Address" : "177 Meakin Rd, Kingston", 
+        "Program_Title" : "Tai Chi", 
+        "Program_Description" : "Tai Chi for all fitness levels - from beginner to intermediate. All ages welcome; Childcare available for under 5's.", 
+        "Day" : "Fridays", 
+        "Time" : "11:15am to 12noon", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17047033.4533, 
+        "y" : -3204526.4457999989
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 3, 
+        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
+        "Address" : "177 Meakin Rd, Kingston", 
+        "Program_Title" : "Yoga", 
+        "Program_Description" : "Gentle Yoga suitable for most fitness levels; all ages welcome; children 10yrs+ accompined by parent also welcome", 
+        "Day" : "Tuesdays during the School Term", 
+        "Time" : "5pm to 5:45pm", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17047033.4533, 
+        "y" : -3204526.4457999989
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 4, 
+        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
+        "Address" : "177 Meakin Rd, Kingston", 
+        "Program_Title" : "Over 50’s Cooking Club", 
+        "Program_Description" : "Weekly cooking club for 5 sessions; nutrition tips; Chair Yoga; cook/prepare a 3 course healthy meal and share the meal together; recipes and booklet included.", 
+        "Day" : "Tuesday (school term)", 
+        "Time" : "12:30pm to 2:30pm", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17047033.4533, 
+        "y" : -3204526.4457999989
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 5, 
+        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
+        "Address" : "177 Meakin Rd, Kingston", 
+        "Program_Title" : "Seniors Pamper days & information", 
+        "Program_Description" : "Pampering and information for seniors", 
+        "Day" : "TBA", 
+        "Time" : "AM", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17047033.4533, 
+        "y" : -3204526.4457999989
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 6, 
+        "Name" : "Loganlea Community Centre", 
+        "Address" : "28-32 Timms Street, Loaganlea", 
+        "Program_Title" : "Food Hampers", 
+        "Program_Description" : "Food hampers to assist with food supplies", 
+        "Day" : "Tuesdays", 
+        "Time" : "9.00am - 11.00am", 
+        "Cost" : "5", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17046141.283200003, 
+        "y" : -3207639.3359999992
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 7, 
+        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
+        "Address" : "177 Meakin Rd, Kingston", 
+        "Program_Title" : "Seniors Computer Club", 
+        "Program_Description" : "Computer instruction for Seniors from beginner to intermediate with healthy morning tea included", 
+        "Day" : "Wednesdays", 
+        "Time" : "9:30am to 12.00pm", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17047033.4533, 
+        "y" : -3204526.4457999989
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 8, 
+        "Name" : "Loganlea Community Centre", 
+        "Address" : "28-32 Timms Street, Loaganlea", 
+        "Program_Title" : "Line Dancing ", 
+        "Program_Description" : "Dance class", 
+        "Day" : "Tuesdays", 
+        "Time" : "1.00pm - 2.00pm ", 
+        "Cost" : "5", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17046141.283200003, 
+        "y" : -3207639.3359999992
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 9, 
+        "Name" : "Loganlea Community Centre", 
+        "Address" : "28-32 Timms Street, Loaganlea", 
+        "Program_Title" : "Belly Dancing", 
+        "Program_Description" : "Dance class", 
+        "Day" : "Tuesdays", 
+        "Time" : "7.00pm - 8.00pm", 
+        "Cost" : "15", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17046141.283200003, 
+        "y" : -3207639.3359999992
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 10, 
+        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
+        "Address" : "177 Meakin Rd, Kingston", 
+        "Program_Title" : "3A Playgroup - My Child, My Life", 
+        "Program_Description" : "Supported Playgroup for families at Logan Central Library; programs aimed at support child development and child/parent interactions.", 
+        "Day" : "Friday's during the School Term", 
+        "Time" : "10.30am - 11.30am", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17047033.4533, 
+        "y" : -3204526.4457999989
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 11, 
+        "Name" : "Loganlea Community Centre", 
+        "Address" : "28-32 Timms Street, Loaganlea", 
+        "Program_Title" : "Broadband for Seniors ", 
+        "Program_Description" : "How to use computers and access the internet class for senior citizens", 
+        "Day" : "Thursdays", 
+        "Time" : "By appointment", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17046141.283200003, 
+        "y" : -3207639.3359999992
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 12, 
+        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
+        "Address" : "177 Meakin Rd, Kingston", 
+        "Program_Title" : "Professional Counselling", 
+        "Program_Description" : "Professional Counselling for adults", 
+        "Day" : "Monday's & Thursday's during the School Term", 
+        "Time" : "9.00am to 12.00pm", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17047033.4533, 
+        "y" : -3204526.4457999989
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 13, 
+        "Name" : "Kingston East Neighbourhood Group Inc (KENG)", 
+        "Address" : "177 Meakin Rd, Kingston", 
+        "Program_Title" : "Sewing Group", 
+        "Program_Description" : "Supported Sewing Group for beginners or advanced; morning tea included; childcare available for under 5's. ", 
+        "Day" : "Friday's during the School Term", 
+        "Time" : "9:15am to 11:15am", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17047033.4533, 
+        "y" : -3204526.4457999989
+      }
+    }, 
+    {
+      "attributes" : {
+        "FID" : 14, 
+        "Name" : "Loganlea Community Centre", 
+        "Address" : "28-32 Timms Street, Loaganlea", 
+        "Program_Title" : "Seniors Expo", 
+        "Program_Description" : "Seniors information (brouchures, flyers)", 
+        "Day" : "Fridays", 
+        "Time" : "Open during business hours", 
+        "Cost" : "Free", 
+        "Cost_Conditions_" : "NA"
+      }, 
+      "geometry" : 
+      {
+        "x" : 17046141.283200003, 
+        "y" : -3207639.3359999992
+      }
+    }
+]

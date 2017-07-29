@@ -4,19 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "eventTitle": "Black Diggers of Logan",
-                "eventLocation": "\r\nBeenleigh Library\r\n      ",
-                "eventDate": "Saturday, 1st Jul 2017 12:00am - 31st Jul 2017 12:00am",
-                "eventDescription": "\r\r\r\rThis exhibition explores the stories of Aboriginal, Torres Strait Islander and South Sea Islander servicemen of the First World War as told by their Logan based descendents.\r\r\r",
-                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/beenleigh-library/black-diggers-of-logan",
-                "eventCategory": "\r\n\r\n",
-                "FID": 1
-            },
-            "geometry": null
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "eventTitle": "Beenleigh Craft and Farmers Market",
                 "eventLocation": "\r\nBeenleigh Showgrounds\r\n      ",
                 "eventDate": "Every week on Sunday, until further notice</p>\r\n    <div class=\"description\">\r\n      A general variety market with farmers produce, fresh fish, pets, crafts and a wide variety of new and second hand goods. This market has a ban on dogs and smoking. Admission is free and there&#39;s plenty of internal parking.\r\n      \r\n    </div>\r\n  </div>\r\n</div>",
@@ -24,6 +11,19 @@
                 "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/community-events/markets/beenleigh-craft-and-farmers-market?SQ_CALENDAR_DATE=2017-07-02",
                 "eventCategory": "\r\nArts and Crafts; Community; Markets\r\n",
                 "FID": 2
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "eventTitle": "Black Diggers of Logan",
+                "eventLocation": "\r\nBeenleigh Library\r\n      ",
+                "eventDate": "Saturday, 1st Jul 2017 12:00am - 31st Jul 2017 12:00am",
+                "eventDescription": "\r\r\r\rThis exhibition explores the stories of Aboriginal, Torres Strait Islander and South Sea Islander servicemen of the First World War as told by their Logan based descendents.\r\r\r",
+                "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/beenleigh-library/black-diggers-of-logan",
+                "eventCategory": "\r\n\r\n",
+                "FID": 1
             },
             "geometry": null
         },
@@ -583,6 +583,7 @@
                 "eventLink": "http://www.logan.qld.gov.au/about-logan/calendar/calendar-events/libraries/beenleigh-library/road-to-ielts-introduction13",
                 "eventCategory": "\r\n\r\n",
                 "FID": 45
+
             },
             "geometry": null
         }

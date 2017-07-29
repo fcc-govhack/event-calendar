@@ -1,63 +1,33 @@
+import axios from 'axios';
 import React, { Component } from 'react';
-import InfiniteScroll from 'react-infinite-scroller';
+
+import EventCard from './EventCard';
 import './App.css';
 
-const colors = [
-  'blue',
-  'red',
-  'white',
-  'black',
-  'green',
-  'yellow',
-  'purple',
-  'brown',
-  'darkblue',
-  'darkgreen',
-  'darkred',
-  'gray',
-  'blue',
-  'red',
-  'white',
-  'black',
-  'green',
-  'yellow',
-  'purple',
-  'brown',
-  'darkblue',
-  'darkgreen',
-  'darkred',
-  'gray'
-];
+const dataUrl = 'https://services5.arcgis.com/ZUCWDRj8F77Xo351/arcgis/rest/services/Logan_City_Council_Community_Centre_Programs_2017/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=*&returnGeometry=true&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnDistinctValues=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&quantizationParameters=&sqlFormat=none&f=pjson&token='
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
-      items: [],
+      data: [],
     }
   }
   componentDidMount = () => {
-    this.setState(prevState => ({
-      items: prevState.items.length === 0 ? [] : prevState.push(...colors),
-    }));
-  }
-  loadMore = () => {
-    this.setState(prevState => ({
-      items: prevState.push(...colors),
-    }));
+    axios.get(dataUrl)
+      .then(response => {
+        this.setState({
+          data: response.data.features,
+        })
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
   }
   render() {
     return (
-      <div className="App">
-        <InfiniteScroll
-          pageStart={0}
-          loadMore={this.loadMore}
-          useWindow={false}
-        >
-          {this.state.items.map(item => (
-            <div style={{backgroundColor: {item}, height: 200}}/>
-          ))}
-        </InfiniteScroll>
+      <div className='container'>
+        {this.state.data.map(event => <EventCard key={event.attributes.FID} event={event} />)}
       </div>
     );
   }

@@ -1,7 +1,7 @@
 import React from 'react'
 
 const EventCard = ({ event }) => (
-  <div className='event-card' style={{height: 100}}>
+  <div className='event-card'>
     <div className='title'>{event.attributes.Program_Title}</div>
     <div className='description'>{event.attributes.Program_Description}</div>
     <div className='day'>{event.attributes.Day}</div>

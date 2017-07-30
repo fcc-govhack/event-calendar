@@ -96,13 +96,14 @@ class App extends Component {
             <img className="logo-img" src={logo} alt='App logo' />
               <img className="eventurerlogo" src={eventurerlogo} alt='Eventurer' />
             <p className="weather"><img src={ WEATHER[this.state.weather] } alt='weather icon' /></p>
-          <div className="button-container">
-            <div className="filters" style={{ paddingLeft: 30 }}>
-              <a style={this.state.filters.COST === IS_FREE ? style : {}} className="filter-button" onClick={() => this.handleOnClick(COST, IS_FREE)}>FREE</a>
-              <a style={this.state.filters.COST === IS_PAID ? style : {}} className="filter-button" onClick={() => this.handleOnClick(COST, IS_PAID)}>PAID</a>
-              <a className="filter-button" onClick={() => this.handleOnClick(COST, '')}>RESET</a>
-            </div>
-          </div>
+              <div className="button-container">
+                <div className="filters" style={{ paddingLeft: 30 }}>
+                  <a style={this.state.filters.COST === IS_FREE ? style : {}} className="filter-button" onClick={() => this.handleOnClick(COST, IS_FREE)}>FREE</a>
+                  <a style={this.state.filters.COST === IS_PAID ? style : {}} className="filter-button" onClick={() => this.handleOnClick(COST, IS_PAID)}>PAID</a>
+                  <a className="filter-button" onClick={() => this.handleOnClick(COST, '')}>RESET</a>
+                </div>
+              </div>
+              </div>
         </div>
         {this.state.filteredData.map(event => (
           <EventCard

@@ -35,15 +35,26 @@ const dateFormatFactory = (date) => {
   }
 }
 
+const getCostValue = (costValue) => {
+  if (costValue.toUpperCase() === 'FREE') {
+    return `${costValue}!`
+  } else if (!isNaN(costValue)) {
+    return `$${costValue}`
+  }
+  return `${costValue}`
+}
+
 /**
  * Could get all random images by putting the image request on ComponentDidMount
  */
 const EventCard = ({ event }) => {
+
   if (!event || !event.attributes) {
     return null
   }
-  const eventData = event.attributes
-  const eventDay = day[eventData.Day.substr(0, 3).toUpperCase()]
+
+  const listOfEvents = event.attributes;
+  const eventDay = day[listOfEvents.Day.substr(0, 3).toUpperCase()]
   const date = getEventDay(eventDay)
   const dateFormatter = dateFormatFactory(date)
   
@@ -59,17 +70,15 @@ const EventCard = ({ event }) => {
             </div>
             <div className="event-details">
               <div className="event-title">
-                <p className="event-text">{ eventData.Program_Title }</p>
+                <p className="event-text">{ listOfEvents.Program_Title }</p>
               </div>
               <div className="event-description-container">
-                <p className="event-description">{ eventData.Program_Description }</p>
+                <p className="event-description">{ listOfEvents.Program_Description }</p>
                 <p className ="see-more">...see more</p>
               </div>
             </div>
             <div className="event-specs">
-              <p className="event-specs-detail">Date & Time: <br /><b>{ dateFormatter('MMMM D') }</b><br /><b>{ eventData.Time }</b><br /><br /> Location: <br/><b>{ eventData.Name }</b><br /><br /> Cost:<br /><b>Free!</b><br /><br /><br />
-                <img src={button} alt='' />
-                <img src={button} alt='' />
+              <p className="event-specs-detail">Date & Time <br /><b>{ dateFormatter('MMMM D') }</b><br /><b>{ listOfEvents.Time }</b><br /><br /> Location <br/><b>{ listOfEvents.Name }</b><br /><br /> Cost<br /><b>{getCostValue(listOfEvents.Cost)}</b><br /><br /><i className="fa fa-heart fa-3x" aria-hidden="true"></i><br /><br /><br />
               </p>
             </div>
           </div>

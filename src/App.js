@@ -93,7 +93,7 @@ class App extends Component {
             <p className="logo">EVENTURER</p>
             <p className="weather"><img src={ WEATHER[this.state.weather] } alt='weather icon' /></p>
           </div>
-          <div>
+          <div style={{ paddingLeft: 30 }}>
             <a className="filter-button active" onClick={() => this.handleOnClick(COST, IS_FREE)}>FREE</a>
             <a className="filter-button" onClick={() => this.handleOnClick(COST, IS_PAID)}>PAID</a>
             <a className="filter-button" onClick={() => this.handleOnClick(COST, '')}>RESET</a>

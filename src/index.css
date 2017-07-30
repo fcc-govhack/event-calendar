@@ -172,6 +172,7 @@ body {
     color: #fff;
     letter-spacing: 0.1em;
     border: 1px solid red;
+    cursor: pointer;
 }
 
 .filter-button:hover {

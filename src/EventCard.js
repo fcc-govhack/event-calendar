@@ -5,6 +5,8 @@ import farmersmarket from './images/farmersmarket.jpg';
 import farmersmarketRollover from './images/farmersmarket-rollover.jpg'; 
 import button from './images/btn.png';
 
+const API_KEY = "f5449d38cf868aa4137d3523f8c760a7";
+
 const day = {
   MON: 1,
   TUE: 2,

@@ -6,7 +6,7 @@ import logo from './images/logo.png'
 import sun from './images/sun.png'
 import cloud from './images/cloud.png'
 import rain from './images/rain.png'
-
+import eventurerlogo from './images/eventurer-logo.png'
 
 const API_KEY = "f5449d38cf868aa4137d3523f8c760a7";
 const dataUrl = 'https://services5.arcgis.com/ZUCWDRj8F77Xo351/arcgis/rest/services/Logan_City_Council_Community_Centre_Programs_2017/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=*&returnGeometry=true&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnDistinctValues=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&quantizationParameters=&sqlFormat=none&f=pjson&token='
@@ -90,10 +90,10 @@ class App extends Component {
         <div className="header">
           <div className="header-logo">
             <img className="logo-img" src={logo} alt='App logo' />
-            <p className="logo">EVENTURER</p>
+              <img className="eventurerlogo" src={eventurerlogo} alt='Eventurer' />
             <p className="weather"><img src={ WEATHER[this.state.weather] } alt='weather icon' /></p>
           </div>
-          <div>
+          <div className="button-container">
             <a className="filter-button active" onClick={() => this.handleOnClick(COST, IS_FREE)}>FREE</a>
             <a className="filter-button" onClick={() => this.handleOnClick(COST, IS_PAID)}>PAID</a>
             <a className="filter-button" onClick={() => this.handleOnClick(COST, '')}>RESET</a>

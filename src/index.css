@@ -28,6 +28,9 @@ body {
 .header-logo {
     padding-left: 20px;
     padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    height:39px;
 }
 
 .logo {
@@ -184,6 +187,11 @@ body {
     border: 1px solid #384353;
 }
 
+.button-container {
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
 /*.event-container {
     width: 100%;
 }
@@ -229,6 +237,11 @@ body {
     padding-top: 10px;
     margin: 0 auto;
     max-width: 50em;
+    margin-top: 40px;
+}
+
+.eventurerlogo {
+    width: 250px;
 }
 
 

@@ -70,7 +70,7 @@ const EventCard = ({ event }) => {
               </div>
             </div>
             <div className="event-specs">
-              <p className="event-specs-detail">Date & Time <br /><b>{ dateFormatter('MMMM D') }</b><br /><b>{ event.attributes.Time }</b><br /><br /> Location <br/><b>{ event.attributes.Name }</b><br /><br /> Cost<br /><b>Free!</b><br /><br /><br />
+              <p className="event-specs-detail">Date & Time <br /><b>{ dateFormatter('MMMM D') }</b><br /><b>{ event.attributes.Time }</b><br /><br /> Location <br/><b>{ event.attributes.Name }</b><br /><br /> Cost<br /><b>Free!</b><br /><br /><i className="fa fa-heart fa-3x" aria-hidden="true"></i><br /><br /><br />
               </p>
             </div>
           </div>

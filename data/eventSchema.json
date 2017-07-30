@@ -1,0 +1,24 @@
+
+{
+  "attributes": {
+    "FID": 2,
+    "Name": "Event Name",
+    "Address": "Address",
+    "Program_Title": "Program Title",
+    "Program_Description": "Description of event. No more than 150 words",
+    "Day": "Fridays",
+    "Start-Time": "11:15am",
+    "Finish-Time": "12:45pm",
+    "Date": "Sun Jul 30 2017",
+    "Cost": "Free",
+    "Main-Image": "image_url",
+    "Contact_Number": "if needed",
+    "Category": ["family", "outdoor", "etc"],
+    "Cost_Conditions_": "NA",
+    "Reocurring": "Daily/Weekly/Bi-weekly/Monthly"
+  },
+  "geometry": {
+    "x": 17047033.4533,
+    "y": -3204526.4457999989
+  }
+}

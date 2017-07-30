@@ -2,14 +2,10 @@ import axios from 'axios'
 import React, { Component } from 'react'
 
 import EventCard from './EventCard'
-<<<<<<< HEAD
 import logo from './images/logo.png'
-=======
-import logo from './images/logo.jpg'
 import sun from './images/sun.png'
 import cloud from './images/cloud.png'
 import rain from './images/rain.png'
->>>>>>> 01202f43076b51a50e6f4e35037012f2dfcfd5e9
 
 
 const API_KEY = "f5449d38cf868aa4137d3523f8c760a7";
@@ -98,9 +94,9 @@ class App extends Component {
             <p className="weather"><img src={ WEATHER[this.state.weather] } alt='weather icon' /></p>
           </div>
           <div>
-            <button onClick={() => this.handleOnClick(COST, IS_FREE)}>Free</button>
-            <button onClick={() => this.handleOnClick(COST, IS_PAID)}>Not Free</button>
-            <button onClick={() => this.handleOnClick(COST, '')}>Reset</button>
+            <a className="filter-button active" onClick={() => this.handleOnClick(COST, IS_FREE)}>FREE</a>
+            <a className="filter-button" onClick={() => this.handleOnClick(COST, IS_PAID)}>PAID</a>
+            <a className="filter-button" onClick={() => this.handleOnClick(COST, '')}>RESET</a>
           </div>
         </div>
         {this.state.filteredData.map(event => (

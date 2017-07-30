@@ -85,6 +85,10 @@ class App extends Component {
     })
   }
   render() {
+    const style = {
+      backgroundColor: '#54657e',
+      border: '1px solid #384353',
+    }
     return (
       <div>
         <div className="header">
@@ -92,11 +96,12 @@ class App extends Component {
             <img className="logo-img" src={logo} alt='App logo' />
               <img className="eventurerlogo" src={eventurerlogo} alt='Eventurer' />
             <p className="weather"><img src={ WEATHER[this.state.weather] } alt='weather icon' /></p>
-          </div>
           <div className="button-container">
-            <a className="filter-button active" onClick={() => this.handleOnClick(COST, IS_FREE)}>FREE</a>
-            <a className="filter-button" onClick={() => this.handleOnClick(COST, IS_PAID)}>PAID</a>
-            <a className="filter-button" onClick={() => this.handleOnClick(COST, '')}>RESET</a>
+            <div className="filters" style={{ paddingLeft: 30 }}>
+              <a style={this.state.filters.COST === IS_FREE ? style : {}} className="filter-button" onClick={() => this.handleOnClick(COST, IS_FREE)}>FREE</a>
+              <a style={this.state.filters.COST === IS_PAID ? style : {}} className="filter-button" onClick={() => this.handleOnClick(COST, IS_PAID)}>PAID</a>
+              <a className="filter-button" onClick={() => this.handleOnClick(COST, '')}>RESET</a>
+            </div>
           </div>
         </div>
         {this.state.filteredData.map(event => (

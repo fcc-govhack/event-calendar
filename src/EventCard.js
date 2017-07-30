@@ -1,7 +1,7 @@
 import moment from 'moment'
 import React from 'react'
 
-import farmersmarket from './images/farmersmarket.jpg'; 
+// import farmersmarket from './images/farmersmarket.jpg'; 
 import farmersmarketRollover from './images/farmersmarket-rollover.jpg'; 
 import button from './images/btn.png';
 
@@ -39,14 +39,11 @@ const dateFormatFactory = (date) => {
  * Could get all random images by putting the image request on ComponentDidMount
  */
 const EventCard = ({ event }) => {
-  // <div className='event-card'>
-  //   <div className='title'>{event.attributes.Program_Title}</div>
-  //   <div className='description'>{event.attributes.Program_Description}</div>
-  //   <div className='day'>{event.attributes.Day}</div>
-  //   <div className='time'>{event.attributes.Time}</div>
-  //   <div className='cost'>{event.attributes.Cost}</div>
-  // </div>
-  const eventDay = day[event.attributes.Day.substr(0, 3).toUpperCase()]
+  if (!event || !event.attributes) {
+    return null
+  }
+  const eventData = event.attributes
+  const eventDay = day[eventData.Day.substr(0, 3).toUpperCase()]
   const date = getEventDay(eventDay)
   const dateFormatter = dateFormatFactory(date)
   
@@ -57,20 +54,20 @@ const EventCard = ({ event }) => {
           <div className="col-lg-6">
             <div className="date-box">{ dateFormatter('MMM D') }</div>
             <div className="cf clearfix">
-              <img className="top" src={ farmersmarket } alt='' />
+              <img className="top" src={`http://loremflickr.com/1000/1000/${eventData.Program_Title}`} alt='' />
               <img className="bottom" src={ farmersmarketRollover } alt='' />
             </div>
             <div className="event-details">
               <div className="event-title">
-                <p className="event-text">{ event.attributes.Program_Title }</p>
+                <p className="event-text">{ eventData.Program_Title }</p>
               </div>
               <div className="event-description-container">
-                <p className="event-description">{ event.attributes.Program_Description }</p>
+                <p className="event-description">{ eventData.Program_Description }</p>
                 <p className ="see-more">...see more</p>
               </div>
             </div>
             <div className="event-specs">
-              <p className="event-specs-detail">Date & Time: <br /><b>{ dateFormatter('MMMM D') }</b><br /><b>{ event.attributes.Time }</b><br /><br /> Location: <br/><b>{ event.attributes.Name }</b><br /><br /> Cost:<br /><b>Free!</b><br /><br /><br />
+              <p className="event-specs-detail">Date & Time: <br /><b>{ dateFormatter('MMMM D') }</b><br /><b>{ eventData.Time }</b><br /><br /> Location: <br/><b>{ eventData.Name }</b><br /><br /> Cost:<br /><b>Free!</b><br /><br /><br />
                 <img src={button} alt='' />
                 <img src={button} alt='' />
               </p>
